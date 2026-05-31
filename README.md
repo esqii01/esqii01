@@ -1,10 +1,14 @@
 ## Halo, Esqii Disini ! 
 
-<img align="right" width="280" src="./Image01.jpg" />
+<img align="right" width="300" src="./Image01.jpg" />
 
 ![views](https://komarev.com/ghpvc/?username=esqii01)
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Hammaam_Muhammad_Shidqii_Wicaksono)
+<a href="https://linkedin.com/in/Hammaam_Muhammad_Shidqii_Wicaksono">
+  <img src="./Linkedin_Logo.png" width="50" />
+</a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mhdsqii)
+<a href="https://Instagram.com/in/mhmdsqii">
+  <img src="./Instagram_Logo.png" width="50" />
+</a>
